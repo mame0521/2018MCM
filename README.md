@@ -329,7 +329,7 @@ Use Matlab to make the fitting again. The new coefficients are given in **Table
 
 Table2
 
-|    | [./media/image5.emf](./media/image5.emf) | [./media/image6.emf](./media/image6.emf) | [./media/image7.emf](./media/image7.emf) | c       | R\^{2} |
+|    |  $\lambda_{1}$ |  $\lambda_{2}$ |  $\lambda_{3}$ | c       | $R\^{2}$ |
 |----|------------------------------------------|------------------------------------------|------------------------------------------|---------|--------|
 | AZ | \-3.7445                                 | 2.3860                                   | \-4.0735                                 | 12.5302 | 0.9748 |
 | CA | \-1.5186                                 | 3.2052                                   | \-8.0685                                 | 12.4842 | 0.9733 |
