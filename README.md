@@ -68,13 +68,13 @@ development, and sets goal for future.
 
 For convenience, we divide the problem into four sub-problems
 
-1) present the energy profile of the four states
+(1) present the energy profile of the four states
 
-2) evaluate the usage of renewable energy sources
+(2) evaluate the usage of renewable energy sources
 
-3) predict the future energy profile
+(3) predict the future energy profile
 
-4) set renewable energy usage targets for the four states
+(4) set renewable energy usage targets for the four states
 
 To tackle the first problem, we select a set of parameters to analyze the data
 from developing trends and overall conditions, and rank them among four states.
