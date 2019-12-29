@@ -1,9 +1,7 @@
 # 2018MCM
 **COMAP’s Mathematical Contest in Modeling in February 2018**
 
-**To read this paper, MathJax Plugin for Github is required in your browser**
-
-
+**(Note: MathJax Plugin for Github is required in your browser to display the mathematical formulas of this paper)**
 
 **Summary**
 
