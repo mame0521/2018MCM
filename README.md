@@ -83,7 +83,7 @@ development, and sets goal for future.
 1.2 Problem Statement and Motivation 
 -------------------------------------
 
-For convenience, we divide the problem into four sub-problems
+For convenience, we divide the problem into four sub-problems
 
 1. present the energy profile of the four states
 
@@ -133,19 +133,19 @@ total goals for the compact of four states and independent goals for each state.
 | GDP                                | Gross Domestic Product                                                                   |
 | ESI                                | Energy Security Index, the ratio of total energy production and total energy consumption |
 | NECP                               | non-renewable energy consumption per unit of GDP                                         |
-| \\overset{\\grave{}}{\\text{NECP}} | the goal of non-renewable energy consumption per unit of GDP                             |
+| N$\grave{E}$CP | the goal of non-renewable energy consumption per unit of GDP                             |
 | TNECP                              | total non-renewable energy consumption per unit of GDP for all four states               |
 | EPR                                | energy's real average price                                                              |
 | RECR                               | renewable energy consumption ratio in total energy consumption                           |
 | REPR                               | renewable energy production ratio in total energy production                             |
 | IECR                               | industrial energy consumption ratio in total energy consumption                          |
 | POP                                | population                                                                               |
-| R\^{2}                             | goodness-of-fit                                                                          |
-| I_{\\text{ij}}                     | The $j^{\text{th}}$ evaluation index of the $I^{\text{th}}$ evaluation object.       |
-| M_{j}\^{+}                         | Fuzzy positive expectation of the $j^{\text{th}}$ evaluation index                     |
-| M_{j}\^{-}                         | Fuzzy negative expectation of the $j^{\text{th}}$ evaluation index                     |
-| w_{j}                              | The weight of the $j^{\text{th}}$ evaluation index                                     |
-| \\mu_{i}                           | Degree of membership of the $i^{\text{th}}$evaluation object                           |
+|$R^{2}$                             | goodness-of-fit                                                                          |
+| $I_{ij}$                     | The $j^{\text{th}}$ evaluation index of the $I^{\text{th}}$ evaluation object.       |
+| $M_{j}^{+}$                         | Fuzzy positive expectation of the $j^{\text{th}}$ evaluation index                     |
+| $M_{j}^{-}$                         | Fuzzy negative expectation of the $j^{\text{th}}$ evaluation index                     |
+| $w_{j}$                              | The weight of the $j^{\text{th}}$ evaluation index                                     |
+| $\mu_{i}$                           | Degree of membership of the $i^{\text{th}}$evaluation object                           |
 | *F*                                | Fuzzy index matrix                                                                       |
 
 4 The Energy Profile of four states
@@ -164,7 +164,7 @@ Firstly, we use diagrams to describe the trends over 50 years.
 Figure 1 Total Energy Consumption Calculated by Fuel Types(unit: Billion Btu)
 
 Figure 1 plot the total energy consumption of four states from 1906-2009. In a
-rough view, all the four states have their energy consumption growing in the 50
+rough view, all the four states have their energy consumption growing in the 50
 years, but the consumption of four states decreased almost simultaneously in
 some periods of time(around 1974,1981,1994 and 2008).Besides, the usage of
 cleaner energy (calculated by the means of nuclear energy and renewable energy)
@@ -378,15 +378,15 @@ Table 3
 
 |       | Definition                                                                                                            | Unit                | Type     |
 |-------|-----------------------------------------------------------------------------------------------------------------------|---------------------|----------|
-| I_{1} | Total Energy Consumed per Dollar of Real GDP                                                                          | MMBtu/\$            | Negative |
-| I_{2} | Consumption of Renewable Energy                                                                                       | Billion Btu         | Positive |
-| I_{3} | Consumption of Nuclear Energy                                                                                         | Billion Btu         | Positive |
-| I_{4} | Consumption of Electricity Outside the State (add net imports of electricity and net interstate sales of electricity) | Billion Btu         | Positive |
-| I_{5} | Growth Rate of Renewable Energy(2008-2009)                                                                            | Percent             | Positive |
-| I_{6} | Growth Rate of Nuclear Electricity (2008-2009)                                                                        | Percent             | Positive |
-| I_{7} | Emission of $\text{CO}_{2}$                                                                                         | Million metric tons | Negative |
-| I_{8} | The Percentage of $\text{NO}_{x}$ Emission in US Total $\text{NO}_{x}$ Emission                                   | Percent             | Negative |
-| I_{9} | The Percentage of Sulfides Emission in US Total Sulfides Emission                                                     | Percent             | Negative |
+| $I_{1}$ | Total Energy Consumed per Dollar of Real GDP                                                                          | MMBtu/\$            | Negative |
+| $I_{2}$ | Consumption of Renewable Energy                                                                                       | Billion Btu         | Positive |
+| $I_{3}$ | Consumption of Nuclear Energy                                                                                         | Billion Btu         | Positive |
+| $I_{4}$ | Consumption of Electricity Outside the State (add net imports of electricity and net interstate sales of electricity) | Billion Btu         | Positive |
+| $I_{5}$ | Growth Rate of Renewable Energy(2008-2009)                                                                            | Percent             | Positive |
+| $I_{6}$ | Growth Rate of Nuclear Electricity (2008-2009)                                                                        | Percent             | Positive |
+| $I_{7}$ | Emission of $\text{CO}_{2}$                                                                                         | Million metric tons | Negative |
+| $I_{8}$| The Percentage of $\text{NO}_{x}$ Emission in US Total $\text{NO}_{x}$ Emission                                   | Percent             | Negative |
+| $I_{9}$ | The Percentage of Sulfides Emission in US Total Sulfides Emission                                                     | Percent             | Negative |
 
 5.2 Determine the Weight of Indicators Base on Entropy Weight Method
 --------------------------------------------------------------------
@@ -448,7 +448,7 @@ calculates the weight of each indicator, as given in **Table 4.**
 
 Table 4
 
-| Indicator | I_{1}  | I_{2}  | I_{3}  | I_{4}  | I_{5}  | I_{6}  | I_{7}  | I_{8}  | I_{9}  |
+| Indicator | $I_{1}$ | $I_{2}$  | $I_{3}$  | $I_{4}$  | $I_{5}$  | $I_{6}$  | $I_{7}$  | $I_{8}$  | $I_{9}$  |
 |-----------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | Weight    | 0.1323 | 0.1536 | 0.0814 | 0.1764 | 0.0879 | 0.1073 | 0.1008 | 0.0813 | 0.0790 |
 
@@ -515,7 +515,7 @@ in which
 
 ![](media/6ffdbd6e2bf6006b8d839a7dbc8967ad.png)
 
-$$r_{\text{ij}} = w_{j}\text{\ \ \ \ \ }y_{\text{ij}} =
+$$r_{\text{ij}} = w_{j}{\Theta}y_{\text{ij}} =
 (w_{j}^{(1)}y_{\text{ij}}^{\left( 1 \right)},w_{j}^{(2)}y_{\text{ij}}^{\left( 2
 \right)},w_{j}^{(3)}y_{\text{ij}}^{\left( 3 \right)})$$
 
@@ -560,9 +560,9 @@ Table 6
 
 |            | Arizona (AZ) | California (CA) | New Mexico (NM) | Texas (TX) |
 |------------|--------------|-----------------|-----------------|------------|
-| d_{i}\^{+} | 0.2472       | 0.2977          | 0.3382          | 0.3380     |
-| d_{i}\^{-} | 0.4118       | 0.3846          | 0.3582          | 0.2985     |
-| \\mu_{i}   | 0.6249       | 0.5637          | 0.5144          | 0.4690     |
+| $d_{i}^{+}$ | 0.2472       | 0.2977          | 0.3382          | 0.3380     |
+|$d_{i}^{-}$ | 0.4118       | 0.3846          | 0.3582          | 0.2985     |
+|$\mu_{i}$   | 0.6249       | 0.5637          | 0.5144          | 0.4690     |
 
 Since $\mu_{i}$ has positive relation with the evaluation of the usage of
 clean energy, we can rank the usage of clean energy among four states from best
@@ -931,3 +931,4 @@ Decision-Supporting System [D]. TIANJIN: Tianjin University, 2004.
 [8] IEA, International Energy Agency, CO2 emissions from fuel combustion, 2014.
 
 [9] <https://www.eia.gov/>U.S. Energy Information Administration (EIA)
+
