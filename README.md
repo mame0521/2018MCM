@@ -492,7 +492,7 @@ $$
 F = {(f_{\text{ij}})}_{m \times n}
 $$
 
-![](media/matrix.png)
+![](media/matrix1.png)
 
 Standardize *F* to build the standardized matrix of triangular fuzzy numbers
 
