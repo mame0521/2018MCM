@@ -4,22 +4,7 @@
 **To read this paper, MathJax Plugin for Github is required in your browser**
 
 
-| For office use only |                     |                              |
-|---------------------|---------------------|------------------------------|
-| T1                  | \_______________\_  |                              |
-| T2                  | \_______________\_  |                              |
-| T3                  | \_______________\_  |                              |
-| T4                  | \_______________\_  | Team Control Number          |
-|                     |                     | **75186**                    |
-|                     |                     |                              |
-| Problem Chosen      | For office use only |                              |
-| **C**               |                     |                              |
-| F1                  | \_______________\_  |                              |
-| F2                  | \_______________\_  |                              |
-| F3                  | \_______________\_  |                              |
-| F4                  | \_______________\_  |                              |
 
-**2018**  
 **MCM/ICM Summary Sheet**.
 
 **Summary**
