@@ -492,6 +492,8 @@ $$
 F = {(f_{\text{ij}})}_{m \times n}
 $$
 
+![](media/matrix.png)
+
 Standardize *F* to build the standardized matrix of triangular fuzzy numbers
 
 $$
@@ -512,9 +514,6 @@ Then, weighted the standardized matrix *R*, and we get the fuzzy decision matrix
 $D = {(r_{\text{ij}})}_{m \times n}$ ,
 
 in which
-
-![](media/6ffdbd6e2bf6006b8d839a7dbc8967ad.png)
-
 $$r_{\text{ij}} = w_{j}{\Theta}y_{\text{ij}} =
 (w_{j}^{(1)}y_{\text{ij}}^{\left( 1 \right)},w_{j}^{(2)}y_{\text{ij}}^{\left( 2
 \right)},w_{j}^{(3)}y_{\text{ij}}^{\left( 3 \right)})$$
