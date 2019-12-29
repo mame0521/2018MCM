@@ -815,7 +815,7 @@ unit of GDP (NPEC). Based on Data in 2009, AZ has the best clean energy profile.
 Without any new policy, AZ and CA will still have the best usage of clean energy
 from 2025 to 2050 and the situation of NM is worrying.
 
-We suggestion is having NECP’s arithmetic average reduced to 4.3581 thousand Btu
+Our suggestion is having NECP’s arithmetic average reduced to 4.3581 thousand Btu
 per dollar by 2025 and reduced to 1.9776 thousand Btu per dollar by 2050 as the
 total goal of all four states. And for each state, the higher the NECP in 2009
 is, the larger the difference between the predicted value and the target value
