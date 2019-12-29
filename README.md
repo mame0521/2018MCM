@@ -159,7 +159,7 @@ the trends and the overall conditions.
 
 Firstly, we use diagrams to describe the trends over 50 years.
 
-![](media/e0f6193240deab791c479f9dc5be8c99.emf)
+![](media/e0f6193240deab791c479f9dc5be8c99.png)
 
 Figure 1 Total Energy Consumption Calculated by Fuel Types(unit: Billion Btu)
 
@@ -170,17 +170,17 @@ some periods of time(around 1974,1981,1994 and 2008).Besides, the usage of
 cleaner energy (calculated by the means of nuclear energy and renewable energy)
 also keeps growing from 1960 to 2009.
 
-![](media/7de236d6c19c7a23cfa4d8ac0f708bb2.emf)
+![](media/7de236d6c19c7a23cfa4d8ac0f708bb2.png)
 
 Figure 2 The Proportion of Clean Energy in Total Energy Consumption
 
-![](media/6ebf6f5bb5e4887b084f430312fa1ea8.emf)
+![](media/6ebf6f5bb5e4887b084f430312fa1ea8.png)
 
 Figure 3 Total Energy Consumed per Dollar of Real GDP
 
 (unit: Thousand Btu per chained dollar)
 
-![](media/e26421f8571db6cbe55c5ffbf83c0098.emf)
+![](media/e26421f8571db6cbe55c5ffbf83c0098.png)
 
 Figure 4 Energy Security Index
 
