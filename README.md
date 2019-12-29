@@ -14,7 +14,7 @@ regions. In this paper, we establish a series of statistical models to describe
 and evaluate the profiles of clean energy of four states. We also give
 suggestions for governors to develop cooperative goals.
 
-First, we describe the energy profile of four states. We process and rebuilt the
+Firstly, we describe the energy profile of four states. We process and rebuilt the
 dataset for observation and evaluation. Based on the dataset, we built several
 charts to visualize their energy profiles and the change in decades. Next, to
 characterize the evolution of energy profile during 1960-2009, we build a
@@ -248,15 +248,13 @@ energy consumption added from 1960 to 2009)
 To build up a model to describe how the energy profile has evolved, we take
 three main aspects into account:
 
-1.the relation between energy condition and the decrease of total energy
-consumed per dollar of real GDP
+(1) the relation between energy condition and the decrease of total energy consumed per dollar of real GDP
 
-2. the relation between energy condition and the increase of clean energy usage
+(2) the relation between energy condition and the increase of clean energy usage
 
-3. the relation between energy condition and the negative impact on GDP
+(3) the relation between energy condition and the negative impact on GDP
 
-Reconsider these relations, we can simplify them into two sides: the GDP growth
-and the consumption of non-renewable energy and clean energy.
+Reconsider these relations, we can simplify them into two sides: the GDP growth and the consumption of non-renewable energy and clean energy.
 
 Thus, in this model, we choose non-renewable energy consumption per unit of GDP
 (NECP) to describe the cleanliness and efficiency of energy usage. As for the
